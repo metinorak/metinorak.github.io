@@ -7,7 +7,7 @@
       <v-flex>
         <v-avatar size="200px">
           <!-- TODO: Add avatar -->
-          <img src="/static/img/default-avatar.png">
+          <img src="/static/img/avatar.jpg">
         </v-avatar>
       </v-flex>
       <!-- Text Info -->

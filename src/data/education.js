@@ -1,18 +1,18 @@
 export const tertiary = [
   {
-    institution: 'Institution Title',
-    year: 'Month Year - Month Year',
-    description: 'Insert a Description Here',
-    additional: 'Insert some additional text here',
+    institution: 'Çukurova University',
+    year: 'September 2014 - June 2019',
+    description: 'BSc in Computer Engineering',
+    additional: 'Graduated with a 71.5% average',
     logo: '<logo>',
   },
 ];
 
 export const secondary = [
   {
-    institution: 'Institution Title',
-    year: 'Year - Year',
-    description: 'Insert a Description Here',
-    additional: 'Insert additional text here',
+    institution: 'Sungurbey Anatolian High School',
+    year: '2009 - 2013',
+    description: '',
+    additional: 'Graduated with a 70.67% average, mostly mathematics and science courses',
   },
 ];

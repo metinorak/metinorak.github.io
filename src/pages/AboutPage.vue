@@ -41,8 +41,8 @@ export default {
   name: 'about',
   data() {
     return {
-      github: 'https://github.com/emiliedebra', // TODO: Insert github lunk
-      linkedin: 'https://www.linkedin.com/in/emilie-wood/', // TODO: insert linkedin link
+      github: 'https://github.com/metinorak', // TODO: Insert github lunk
+      linkedin: 'https://www.linkedin.com/in/metinorak', // TODO: insert linkedin link
       bio: profile.bio
     };
   },

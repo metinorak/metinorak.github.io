@@ -1,37 +1,100 @@
 export const skillExplanations = [
   {
-    title: 'Skill Title',
+    title: 'Programming Languages',
     content: [
-      'Explanation One',
-      'Explanation Two',
-      'Explanation Three',
-      'Explanation Four',
+      'C',
+      'C++',
+      'Java',
+      'Python',
+      'PHP',
+      'JavaScript'
     ],
     tags: [
-      'Tag One',
-      'Tag Two',
+      'C',
+      'C++',
+      'Java',
+      'Python',
+      'PHP',
+      'JavaScript'
     ],
   },
   {
-    title: 'Skill Two Title',
+    title: 'Data Structures',
     content: [
-      'Explanation One',
+      'Linked Lists, Stacks, Queues, Trees, Graph etc.',
     ],
     tags: [
-      'Tag Three'
+      'Data Structures'
     ],
   },
+  {
+    title: 'Algorithms',
+    content: [
+      'Some sorting algorithms like Selection, Insertion, Bubble, Merge, Quick etc.',
+      'Hashing',
+
+    ],
+    tags: [
+      'Algorithms'
+    ],
+  },
+  {
+    title: 'Platforms and Frameworks',
+    content: [
+      'Python - Flask',
+      'Java - Android',
+      'Java - Swing',
+      'C++ - Qt',
+    ]
+  }
 ];
 
 export const skills = [
   {
-    title: 'Tag One',
+    title: 'C',
     pressed: false,
   }, {
-    title: 'Tag Two',
+    title: 'C++',
     pressed: false,
   }, {
-    title: 'Tag Three',
+    title: 'Java',
     pressed: false,
   },
+  {
+    title: 'Python',
+    pressed: false,
+  },
+  {
+    title: 'PHP',
+    pressed: false,
+  },
+  {
+    title: 'JavaScript',
+    pressed: false,
+  },
+  {
+    title: 'Data Structures',
+    pressed: false
+  },
+  {
+    title: 'Algorithms',
+    pressed: false
+  },
+  {
+    title: 'Android',
+    pressed: false
+  },
+  {
+    title: 'Swing',
+    pressed: false
+  },
+  {
+    title: 'Flask',
+    pressed: false
+  },
+  {
+    title: 'Qt',
+    pressed: false
+  }
+
 ];

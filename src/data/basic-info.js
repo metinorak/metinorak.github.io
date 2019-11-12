@@ -1,46 +1,36 @@
 export const profile = {
-  name: 'John Doe',
-  initials: 'JD',
+  name: 'metin orak',
+  initials: 'MO',
   basic: [
     {
       title: 'Full Name',
-      content: 'John Doe',
+      content: 'Metin Orak',
     },
     {
       title: 'Email',
-      content: 'johndoe@gmail.com',
+      content: 'metinorak.apps@gmail.com',
     },
     {
       title: 'Date of Birth',
-      content: '14 February 1986',
+      content: '26 July 1995',
     },
     {
       title: 'Citizenship',
-      content: 'British',
+      content: 'Turkish',
     },
   ],
   additional: [
     {
-      title: 'Availability',
-      content: 'Immediate',
     },
   ],
   bio: {
     title: 'Bio',
     content: [
-      'This is a test bio'
-      // 'UCT BSc Computer Science and Computer Engineering graduate.',
-
-      // `With a passion for problem-solving, I have a determined and positive attitude towards life's
-      // continuous complex problems. I have a strong work ethic which I have enjoyed applying to the challenges
-      // of the software development environment through several years of work experience, both backend and frontend.`,
-
-      // `Together with software, I am a music and dance enthusiast and am able to approach design problems
-      // from an artistic and creative perspective as well.`,
-
-      // `My problem-solving ability is applied throughout all aspects of my life, and I am continuously
-      // seeking to gain knowledge. When not gaining this knowledge in a software environment,
-      // I am an advocate for self-improvement and am always striving to better my physical and mental health.`,
+      'Çukurova University Computer Engineering Graduate',
+      `
+      I'm always learning new things and trying to find a specific and interesting area to work. About subjects that I want to learn, I read books and practice. I enjoy implementing data structures and developing algorithms for problems.
+      For upcoming plans, firstly I want to perform my own projects and increase my knowledge about artificial intelligence.
+      `
     ],
   }
 }

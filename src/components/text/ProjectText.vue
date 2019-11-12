@@ -15,12 +15,12 @@
           <ul class="italic">{{ content.institution }}</ul>
           <ul>{{ content.description }}</ul>
         </v-flex>
-        <!-- External Repo Link -->
+        <!-- External Link -->
         <v-tooltip top>
           <v-btn icon flat :href="this.content.link" slot="activator" target="_blank">
-            <img src="../../assets/GitHub-Mark-32px.png" size="16px">
+            <img src="../../assets/external-link.png" width="16px">
           </v-btn>
-          <span>View project repo</span>
+          <span>Related Link</span>
         </v-tooltip>
       </v-layout>
       <!-- Tech Chips -->
