@@ -43,6 +43,7 @@ export const skillExplanations = [
     content: [
       'Python - Flask',
       'Java - Android',
+      'Java - Spring Framework',
       'Java - Swing',
       'C++ - Qt',
     ]

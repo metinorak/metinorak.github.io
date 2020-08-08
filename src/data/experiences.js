@@ -1,5 +1,10 @@
 export const experiences = [
   {
+    title: 'Assistant Software Engineer',
+    company: 'Huawei',
+    date: 'July 2018 - Present',
+  },
+  {
     title: 'Software Development Intern',
     company: 'T-Soft E-Commerce Solutions',
     date: 'July 2018 - August 2018',
